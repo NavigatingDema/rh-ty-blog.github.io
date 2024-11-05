@@ -5,7 +5,7 @@ date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To Your Blog! Hi, I'm here to ask you about out car's extended warranty.
 
 * The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
